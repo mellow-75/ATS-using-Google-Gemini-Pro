@@ -1,4 +1,4 @@
-# Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro
+## Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro
 
 ## Overview
 Welcome to the Gemini Pro Applicant Tracking System (ATS)! This system is developed using the powerful Gemini Pro model to streamline the hiring process by analyzing job descriptions and resumes. It provides valuable insights such as job description match, missing keywords, and profile summary.
@@ -13,17 +13,12 @@ Welcome to the Gemini Pro Applicant Tracking System (ATS)! This system is develo
 - Gemini Pro model api key (Note: Ensure you have the necessary credentials and permissions to access the Gemini Pro API)
   
 ## Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro/
-```
-
-2. Install dependencies:
+1. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Set up Gemini Pro API credentials:
+2. Set up Gemini Pro API credentials:
  - Obtain API credentials from the makersuit platform.
  - Create a file named .env in the project root directory.
  - Add the following lines to .env:
